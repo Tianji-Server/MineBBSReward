@@ -8,7 +8,7 @@ matcher:
   regex: 'data-time="([0-9]+)" data-date-string.*datePublished'
   find-times: 1
   group: 1
-# 时间设定
+# 时间设定 
 time:
   # 顶帖后限定领取奖励的时间 (秒)
   top-timeout: 60
